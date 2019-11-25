@@ -22,3 +22,5 @@
 [googleさん！！？](https://www.google.co.jp/)
 
 [testページ](./test.html)
+
+![ピンボール](./game_pinball_machine.png)
